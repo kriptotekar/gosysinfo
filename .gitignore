@@ -1,0 +1,8 @@
+# filepath: C:\Users\Ja\Documents\RUST\syshack\gosysinfo\.gitignore
+# Binaries for Go
+*.exe
+# Go build directories
+bin/
+pkg/
+# Modules
+go.sum
